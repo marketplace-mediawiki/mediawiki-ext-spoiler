@@ -3,7 +3,7 @@
   "type": "mediawiki-extension",
   "description": "MediaWiki spoiler extension.",
   "license": "GPL-3.0-or-later",
-  "homepage": "https://gitlab.com/marketplace-mediawiki",
+  "homepage": "https://github.com/marketplace-mediawiki",
   "keywords": [
     "mediawiki",
     "spoiler"
@@ -28,8 +28,8 @@
     }
   ],
   "support": {
-    "issues": "https://gitlab.com/marketplace-mediawiki/mediawiki-ext-spoiler/issues",
-    "source": "https://gitlab.com/marketplace-mediawiki/mediawiki-ext-spoiler"
+    "issues": "https://github.com/marketplace-mediawiki/mediawiki-ext-spoiler/issues",
+    "source": "https://github.com/marketplace-mediawiki/mediawiki-ext-spoiler"
   },
   "require": {
     "composer/installers": "~1.0",
