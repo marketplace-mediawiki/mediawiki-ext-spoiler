@@ -1,8 +1,8 @@
-# Information / Информация
+# Information
 
 Блок со скрытой и отображаемой информацией.
 
-## Install / Установка
+## Install
 
 1. Загрузите папки и файлы в директорию `extensions/MW_EXT_Spoiler`.
 2. В самый низ файла `LocalSettings.php` добавьте строку:
@@ -11,12 +11,12 @@
 wfLoadExtension( 'MW_EXT_Spoiler' );
 ```
 
-## Syntax / Синтаксис
+## Syntax
 
 ```html
 <spoiler title="[TITLE]">[CONTENT]</spoiler>
 ```
 
-## Donations / Пожертвования
+## Donations
 
 - [Donation Form](https://donation-form.github.io/)
